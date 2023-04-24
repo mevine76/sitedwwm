@@ -1,0 +1,14 @@
+body {
+    background-color: #44A33D;
+}
+
+fieldset {
+    width: 100%;
+    text-align: center;
+}
+
+.btn {
+    background-color: #000;
+    color: white;
+}
+
